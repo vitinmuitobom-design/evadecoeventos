@@ -22,6 +22,22 @@
 
 <Li> Garantir que a imagem do hero se adapte ao celular.</Li>
 
+<h3>📸 Galeria de eventos</h3>
+
+ <Li>Criar uma nova seção "Nossos eventos".</Li>
+
+ <Li>Adicionar fotos reais dos eventos realizados.</Li>
+
+ <Li>Criar um carrossel de imagens.</Li>
+
+<Li> Adicionar botões de próximo/anterior.</Li>
+
+ <Li>Fazer o carrossel funcionar também por toque no celular.</Li>
+
+<Li> Adicionar uma pequena descrição para cada evento, se necessário.</Li>
+
+ <Li>Deixar a estrutura preparada para adicionar novas fotos facilmente.</Li>
+
  
 
  
