@@ -50,6 +50,22 @@
 
 <Li> Garantir que todos os links funcionem corretamente no celular.</Li>
 
+
+<h3> 🚀 Objetivo final da V2 </h3>
+
+ <Li>Site visualmente mais profissional.</Li>
+
+ <Li>Site funcionando perfeitamente no celular.</Li>
+
+<Li> Fotos reais da Eva Deco em destaque.</Li>
+
+<Li> Navegação simples.</Li>
+
+<Li> Carrossel funcionando.</Li>
+
+<Li> Menu mobile funcionando.</Li>
+
+ <Li>Estrutura fácil de atualizar quando novos eventos forem realizados.</Li>
  
 
  
