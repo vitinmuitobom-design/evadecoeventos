@@ -13,9 +13,9 @@
  <Li>Adicionar uma imagem na hero ❌ </Li>
  <Li>Adicionar carrosel de imagens dos eventos atuais ❌ </Li>
  <Li>Adicionar menu hambuguer com animaçao JS para a versao mobile do site ❌  </Li>
+ <Li>Deixar espaço para novos ajustes/conteúdos</Li>
 
 
- <p></p>
  
 
  
