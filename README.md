@@ -10,17 +10,17 @@
 
 ## Objetivos
 
- <h3> HERO</h3>
+ <h3> 🖼️ HERO</h3>
 
- Adicionar uma imagem real de decoração na seção principal.
+<Li>Adicionar uma imagem real de decoração na seção principal.</Li>
 
- Melhorar a apresentação do título principal.
+<Li> Melhorar a apresentação do título principal.</Li>
 
- Manter o botão "Solicitar orçamento".
+<Li> Manter o botão "Solicitar orçamento".</Li>
 
- Fazer o botão direcionar corretamente para o contato/WhatsApp.
+<Li> Fazer o botão direcionar corretamente para o contato/WhatsApp.</Li>
 
- Garantir que a imagem do hero se adapte ao celular.
+<Li> Garantir que a imagem do hero se adapte ao celular.</Li>
 
  
 
