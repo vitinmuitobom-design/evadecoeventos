@@ -10,12 +10,17 @@
 
 ## Objetivos
 
- <Li> 🖼️ Adicionar uma imagem na hero ❌ </Li>
- <Li> 🎠 Adicionar carrosel de imagens dos eventos atuais ❌ </Li>
- <Li> 📱 Menu hambúrguer funcional no mobile ❌  </Li>
- <Li> Deixar espaço para novos ajustes/conteúdos ❌ </Li>
- <li>📐 Layout totalmente responsivo</li>
+ <h3> HERO</h3>
 
+ Adicionar uma imagem real de decoração na seção principal.
+
+ Melhorar a apresentação do título principal.
+
+ Manter o botão "Solicitar orçamento".
+
+ Fazer o botão direcionar corretamente para o contato/WhatsApp.
+
+ Garantir que a imagem do hero se adapte ao celular.
 
  
 
