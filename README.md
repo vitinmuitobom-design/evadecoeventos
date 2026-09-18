@@ -50,6 +50,21 @@
 
 <Li> Garantir que todos os links funcionem corretamente no celular.</Li>
 
+<H3>🎉 Serviços</H3>
+
+<Li> Manter os serviços atuais:</Li>
+
+      Aniversários
+
+      Casamentos
+
+      Eventos corporativos
+
+ <Li>Adicionar uma imagem para cada serviço.</Li>
+
+ <Li>Melhorar a descrição de cada serviço.</Li>
+
+<Li> Criar um visual consistente para os cards.</Li>
 
 <h3> 🚀 Objetivo final da V2 </h3>
 
