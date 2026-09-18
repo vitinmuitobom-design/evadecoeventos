@@ -38,6 +38,18 @@
 
  <Li>Deixar a estrutura preparada para adicionar novas fotos facilmente.</Li>
 
+ <h3> 📱 Menu mobile </h3>
+
+  <Li>Criar menu hambúrguer.</Li>
+
+ <Li>Fazer o menu abrir e fechar com JavaScript.</Li>
+
+<Li> Adicionar animação simples na abertura.</Li>
+
+ <Li>Fechar o menu quando o usuário clicar em uma seção.</Li>
+
+<Li> Garantir que todos os links funcionem corretamente no celular.</Li>
+
  
 
  
