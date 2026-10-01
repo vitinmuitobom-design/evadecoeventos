@@ -6,7 +6,7 @@
 <p> Estou desenvolvendo ainda , a empresa pediu para fazer algumas mudanças e adicionar imagens. Esse daqui so foi o site base , teste , vamos assim dizer , para mostra a eles como que vai ficar, o site ja esta no ar , https://evadecoeventos.com.br/ , irei modificar algumas coisas e atualizar semanalmente e adicionar fotos. </p>
 
 
- # Evadecoventos V2
+ # Evadecoventos V2 + boostrap
 
 ## Objetivos
 
