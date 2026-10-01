@@ -805,8 +805,7 @@ footer .line-footer p a{
     .navbar{
         justify-content: space-between;
     }
-
-    /* esconde o botão Contato solto; ele vai para dentro do menu */
+    
     .navbar .btn-contato-destaque{
         display: none;
     }
@@ -906,4 +905,89 @@ footer .line-footer p a{
         background-color: var(--gold-dark);
         color: var(--branco);
     }
+}
+
+
+
+
+.hero-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+    width: 100%;
+    max-width: 1200px;
+    padding: 120px 40px 60px;
+    box-sizing: border-box;
+}
+
+.hero-wrap .hero{
+    flex: 1;
+    text-align: left;
+}
+
+.hero-wrap .hero p.subtitle{
+    padding-left: 0;
+}
+
+.hero-wrap .hero h1{
+    font-size: 50px;
+    text-align: left;
+    margin-top: 0;
+}
+
+.hero-wrap .hero p.desc{
+    margin: 20px 0 36px 0;
+}
+
+.hero-img{
+    flex: 0 0 400px;
+}
+
+.hero-img img{
+    display: block;
+    width: 100%;
+    height: 540px;
+    object-fit: cover;
+    border-radius: 200px 200px 0 0;   
+    border: 1px solid var(--gold-light);
+    box-shadow: 14px 14px 0 var(--gold-light);
+}
+
+@media (max-width: 992px){
+    .hero-wrap{ gap: 40px; padding: 110px 30px 50px; }
+    .hero-img{ flex: 0 0 320px; }
+    .hero-img img{ height: 440px; border-radius: 160px 160px 0 0; }
+    .hero-wrap .hero h1{ font-size: 40px; }
+}
+
+@media (max-width: 768px){
+    .hero-wrap{
+        flex-direction: column;
+        gap: 40px;
+        padding: 0;
+    }
+
+    .hero-wrap .hero{ text-align: center; }
+
+    .hero-wrap .hero h1{
+        font-size: 36px;
+        text-align: center;
+        margin: 15px 0;
+    }
+
+    .hero-wrap .hero p.desc{ margin: 20px auto 30px; }
+
+    .hero-img{ flex: none; width: 100%; max-width: 300px; }
+    .hero-img img{
+        height: 380px;
+        border-radius: 150px 150px 0 0;
+        box-shadow: 10px 10px 0 var(--gold-light);
+    }
+}
+
+@media (max-width: 480px){
+    .hero-wrap .hero h1{ font-size: 30px; }
+    .hero-img{ max-width: 260px; }
+    .hero-img img{ height: 330px; border-radius: 130px 130px 0 0; }
 }
